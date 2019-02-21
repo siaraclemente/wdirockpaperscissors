@@ -1,6 +1,7 @@
 <img src="https://i.imgur.com/cIz3Qx8.png">
 
 # Build Another Game - Rock Paper Scissors
+(alert-attempt.surge.sh)
 
 ## Intro
 
@@ -25,13 +26,3 @@ Upon clicking the **Rock, Paper, Scissors... Go!** button, there will be a small
 <img src="https://i.imgur.com/xYE9rv1.png">
 
 After the countdown finishes, the scores will be updated; and if there's a winner, that symbol will be rendered with a grey border.
-
-## Setup
-
-Included along side this README file are starter versions of the `index.html`, `css/main.css`, `js/main.js`; along with an `imgs` folder containing the three RPS images.
-
-Feel free to modify these files directly where they live in the class repo.  However, if you want to save this project as a separate repo in your GitHub, copy this folder out of the class repo so that you don't end up creating a nested repo.
-
-## Code away and have fun!
-
-#### This exercise is not a deliverable.
