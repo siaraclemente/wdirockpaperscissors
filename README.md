@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/cIz3Qx8.png">
 
 # Build Another Game - Rock Paper Scissors
-Live Rock, Paper Scissors Link Here: [alert-attempt.surge.sh]
+Live Rock, Paper Scissors Link Here: http://alert-attempt.surge.sh/
 
 ## Intro
 
